@@ -47,14 +47,14 @@
     "bunyan": "1.8.15",
     "debug": "4.3.4",
     "lodash": "4.17.21",
-    "needle": "2.9.1",
+    "needle": "3.3.0",
     "p-map": "4.0.0",
     "parse-link-header": "2.0.0",
     "sleep-promise": "8.0.1",
     "snyk-request-manager": "1.8.0",
     "source-map-support": "^0.5.16",
     "split": "1.0.1",
-    "yargs": "16.2.0"
+    "yargs": "18.0.0"
   },
   "devDependencies": {
     "@octokit/types": "6.14.2",
